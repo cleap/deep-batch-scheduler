@@ -1,5 +1,5 @@
-from job import Job, Workloads
-from cluster import Cluster
+from .job import Job, Workloads
+from .cluster import Cluster
 
 import os
 import math
